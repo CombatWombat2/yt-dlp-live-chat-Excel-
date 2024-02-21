@@ -12,7 +12,7 @@ Emoticons: Chat emoticons are not rendered.
 
 **Chat Timestamps:**  Absolute Timestamps: Its recommended to sort the output by the timestampUsec property. This is also the default sort order when.   This is the unix epoch of the absolute chat time. Chat timestamp relative to the start of the live is the ""TimeStamp"" field 
 "
-![image](https://github.com/CombatWombat2/yt-dlp-live-chat-Excel-/assets/110062642/799879c9-2fd2-4818-8755-1d40f0d9d6d5)
+
 
 
 
