@@ -1,5 +1,7 @@
 "READ ME
 
+The Excel workbook takes the youtube live chat json file that is created by yt-dlp, repairs it and renders a subset of the available fields. I have not found any documentation for the json schema and uy-dlp uses a different live chat schema in different scenarios.  I have done my best to account for the different schemas but there may be errors.  If you notice that some of the outputted fields are blank, please log a issue with the attached json file.
+
 **Basic Instructions:** Enter the name and path of the YT-DLP live chat json file in cell B1 and hit refresh all. You can enter it manually or click the open file button  to run a macro.   Hit ""refresh all"" to load the file and refresh the output (alternatively click on Refresh All under the data menu).
 
 After you click on refresh all, the nicely formatted chat history is refreshed in the Chat History worksheet.  Remember to adjust any filters you used from your previous file.
